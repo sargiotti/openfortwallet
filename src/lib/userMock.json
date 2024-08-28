@@ -1,0 +1,112 @@
+{
+    "user": {
+      "name": "Alice Smith",
+      "walletId": "0x1234567890abcdef",
+      "accountCreated": "2022-01-01"
+    },
+    "transactions": [
+      {
+        "id": "12345",
+        "from_wallet": "0x1234567890ABCDEF",
+        "type": "credit",
+        "amount": 10.5,
+        "currency": "ETH",
+        "timestamp": "2023-07-13T09:12:34Z"
+      },
+      {
+        "id": "67890",
+        "to_wallet": "0x1234567890ABCXYZ",
+        "type": "debit",
+        "amount": 5.2,
+        "currency": "BTC",
+        "timestamp": "2023-07-23T09:12:34Z"
+      },
+      {
+        "id": "54321",
+        "from_wallet": "0xABCDE1234567890",
+        "type": "credit",
+        "amount": 15.0,
+        "currency": "ETH",
+        "timestamp": "2023-08-01T10:15:20Z"
+      },
+      {
+        "id": "98765",
+        "to_wallet": "0xFEDCBA0987654321",
+        "type": "debit",
+        "amount": 7.8,
+        "currency": "BTC",
+        "timestamp": "2023-08-10T14:45:10Z"
+      },
+      {
+        "id": "12345",
+        "from_wallet": "0x1234567890ABCDEF",
+        "type": "credit",
+        "amount": 10.5,
+        "currency": "ETH",
+        "timestamp": "2023-07-13T09:12:34Z"
+      },
+      {
+        "id": "67890",
+        "to_wallet": "0x1234567890ABCXYZ",
+        "type": "debit",
+        "amount": 5.2,
+        "currency": "BTC",
+        "timestamp": "2023-07-23T09:12:34Z"
+      },
+      {
+        "id": "54321",
+        "from_wallet": "0xABCDE1234567890",
+        "type": "credit",
+        "amount": 15.0,
+        "currency": "ETH",
+        "timestamp": "2023-08-01T10:15:20Z"
+      },
+      {
+        "id": "98765",
+        "to_wallet": "0xFEDCBA0987654321",
+        "type": "debit",
+        "amount": 7.8,
+        "currency": "BTC",
+        "timestamp": "2023-08-10T14:45:10Z"
+      }
+    ],
+    "assets": [
+      {
+        "type": "crypto",
+        "name": "Bitcoin",
+        "amount": "0.5",
+        "icon": "/icons/bitcoin.svg"
+      },
+      {
+        "type": "crypto",
+        "name": "Ethereum",
+        "amount": "2.0",
+        "icon": "/icons/ethereum.svg"
+      },
+      {
+        "type": "nft",
+        "name": "CryptoPunk #123",
+        "amount": "1",
+        "icon": "/icons/nft.svg"
+      },
+      {
+        "type": "crypto",
+        "name": "Bitcoin",
+        "amount": "0.5",
+        "icon": "/icons/bitcoin.svg"
+      },
+      {
+        "type": "crypto",
+        "name": "Ethereum",
+        "amount": "2.0",
+        "icon": "/icons/ethereum.svg"
+      },
+      {
+        "type": "nft",
+        "name": "CryptoPunk #123",
+        "amount": "1",
+        "icon": "/icons/nft.svg"
+      }
+    ]
+  }
+  
